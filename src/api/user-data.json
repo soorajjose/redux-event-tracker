@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "name": "Binu",
+      "accountName": "ABCD",
+      "projectName": "XYZ",
+      "bdayDate": "11/12/2018",
+      "completed": false
+    },
+    {
+      "id": 1,
+      "name": "Aginu",
+      "accountName": "QWERT",
+      "bdayDate": "11/12/2018",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "name": "Albin",
+      "accountName": "ABCD",
+      "projectName": "ASHS",
+      "bdayDate": "11/12/2018",
+      "completed": false
+    }
+  ],
+  "visibilityFilter": "SHOW_ALL"
+}
